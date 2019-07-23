@@ -2,13 +2,54 @@
 
 Course overview, syllabus, schedule, etc. for the Beaver Works Summer Insitute (BWSI) summer remote sensing course
 
-## Course Overview
+## Introduction
 
-The Beaver Works Summer Institute will offer students the opportunity to explore the exciting intersection of data science and crisis response. During the course, the students will learn to understand the basics of Python, Git, data science, machine learning, and image processing. Students will explore real world datasets ranging from drone imagery of regions to disaster imagery collected by the human volunteers of the Civil Air Patrol. Students will develop experience in an area of data science that is poised to play a critical role in understanding our world.
+The Beaver Works Summer Institute will offer students the opportunity to explore the exciting intersection of data science and crisis response. During the course, the students will learn the basics of Python, Git, geospatial information systems (GIS), and image processing. Students will explore real world datasets including aerial imagery from drones and Civil Air Patrol, as well as various satellite sources. Students will develop experience in an area of data science that is poised to play a critical role in understanding our world.
 
-## Syllabus  
+## Program Overview
 
-This syallabus is a high level outline and subject to change over the duration of the course.  
+Imagine coordinating a response after the chaos of a hurricane or the challenges of a famine lasting years; these big problems require big data to solve. With airplanes and satellites, we collect mountains of data of affected regions, but who looks at this data? How do we turn this data into a physical response? The program’s goal is for participants to explore, leverage, and transform open source information and imagery collected from drones, airplanes, helicopters, and satellites to generate actionable intelligence to support a disaster or humanitarian response. Students will be exposed to three main components: 1) processing and extracting features from raw data, 2) data classification and analysis, and 3) developing data products to support decision making. The program will explore tools and techniques using real world operational data collected from across the globe. 
+
+The BWSI Remote Sensing program will offer students the opportunity to explore the exciting intersection of data science and crisis response.  The program consists of two components: (1) online course from January to May, open to all interested and committed students; and (2) a four-week summer program at MIT campus in Cambridge, MA. During the course, the students will learn to understand the basics of Python, Git, machine learning, and image processing. Students will explore real world datasets of aerial and satellite imagery. By participating in the online and/or onsite portion of the program, students will develop experience in an area of data science that is poised to play a critical role in understanding our world.
+
+## Online Course
+
+Prior to the summer course at MIT campus, students will be required to complete an online course which contains important introductory material. The online course will give the students a strong foundation required to successfully complete the four-week summer course. In addition to foundational introductory material, the online course includes discussion of different use cases and expose students to real world challenges and applications of the coursework. 
+
+## Summer Syllabus - Weekly 
+
+The four-week summer component of aims to guide students through the processing of designing experiments and analyzing commonly used for data for disaster response.  Daily course material, case studies, guest lectures, and small-group projects will expose students to challenges across technical domains. This syallabus is subject to change over the duration of the course.  
+
+### Week 1: Foundation
+
+1. Introduction to Remote Sensing for Humanitarian Assistance and Disaster Relief
+2. Review of online Python course
+3. GIS and networks in Python
+4. Field trip to MIT Lincoln Laboratory
+
+### Week 2: Data Science and Analysis
+
+1. Introduction to engineering design and data science principles
+2. Images, metadata, and image processing
+3. Field trip to Massachusetts Task Force One (MA-TF1)
+
+### Week 3: Aerial Imagery and Sensing
+
+1. Civil Air Patrol and Aerial Imagery
+2. Internet of things and analyzing aerial images
+3. Building a hardware multispectral sensor
+4. Kite photography 
+5. Field trip to Draper Laboratory 
+
+### Week 4: Optimization Decision Making
+
+1. Network optimization and class optimization formulations 
+2. Guest lectures from Swissnex and Red Cross Red Crescent Climate Centre 
+3. Final exercise of disaster tabletop simulation
+
+## Summer Syllabus - Daily 
+
+This syallabus is subject to change over the duration of the course.  
 
 ### Week 1: Introduction + Python  
 

@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: BWSI Remote Sensing
+description: Course overview, syllabus, schedule, etc. for the Beaver Works Summer Insitute (BWSI) summer remote sensing course
 plugins:
  - jekyll-seo-tag
  - jekyll-sitemap

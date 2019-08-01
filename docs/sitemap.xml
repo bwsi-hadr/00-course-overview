@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/syllabus/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/field-trips/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/python/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/gis/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/supplements/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/image-processing/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/optics/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/optimization/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/specimen/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/about/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

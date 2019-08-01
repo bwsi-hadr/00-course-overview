@@ -1,6 +1,6 @@
 ---
 title: 'About Us'
-date: 2018-11-28T15:14:39+10:00
+date: 2019-01-01T00:00:00+10:00
 
 ---
 
@@ -40,30 +40,21 @@ The BWSI Remote Sensing program offers high school students the opportunity to e
 
 ## Instructors
 
-### Jeffrey Liu
+###### [Jeffrey Liu](https://github.com/jeffliu-LL)
 
-### Andrew Weinert
+###### [Andrew Weinert](https://github.com/aweinert-MIT)
 
 ## Teaching Assistants
 
-### Andrew Mascillaro
+###### [Andrew Mascillaro](https://github.com/intermezzio)
 
-### Cameron Mastoras
+###### [Cameron Mastoras](https://github.com/cmastoras)
 
-### Marie Tessier
+###### [Marie Tessier](https://github.com/gabi246)
 
 ## Feedback
 
-If you have any questions or would like further information about the JEFFRIS project, please fill out the form below.
-
-<div id="email-feedback">
-	<form method="post" action="//formspree.io/amascillaro@gmail.com">
-		<div><input class="textfield" type="text" name="name" id="name" placeholder="Name" /></div>
-		<div><input class="textfield" type="email" name="email" id="email" placeholder="Your Email" /></div>
-		<div><textarea name="message" id="message" placeholder="Your Message" rows="4" style="width: 100%"></textarea></div>
-		<input id="submit" type="submit" value="Send Message" />
-	</form>
-</div>
+If you have any questions or would like further information about the JEFFRIS project, let us know [here](https://github.com/bwsi-hadr/00-course-overview/issues).
 
 ## Distribution Statement
 

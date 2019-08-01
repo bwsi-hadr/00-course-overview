@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'Remote Sensing for Crisis Response'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+The MIT Beaver Works Summer Institute Remote Sensing course is an impact driven course that uses imaging and data analysis for crisis response

@@ -22,9 +22,9 @@ All programming in this course is done with Python because of its data analysis 
    * functions
    * data structures: lists, dictionaries, iterators
 4. Numpy
-   * Arrays
-   * Indexing
-   * Matrix math
+   * arrays
+   * indexing
+   * matrix math
    * summary functions (max, min, std, avg)
 5. Pandas
    * column names, data types

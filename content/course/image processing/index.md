@@ -14,42 +14,42 @@ The first application of knowledge in the Remote Sensing course involves image p
 ## Topics Covered
 
 1. What is the Civil Air Patrol (CAP)?
-   1. History and mission of CAP
-   2. What information does aerial imagery provide?
-   3. What challenges are there in dealing with aerial imagery?
-   4. What goes into planning CAP missions? Elevation, distance, path, targets
+   * History and mission of CAP
+   * What information does aerial imagery provide?
+   * What challenges are there in dealing with aerial imagery?
+   * What goes into planning CAP missions? Elevation, distance, path, targets
 2. What kind of information is available from satellite imagery, and how is it used?
-   1. Sources of public imagery
-   2. Sensing bands
-   3. Preprocessing, Calibration
-   4. Analyses, uses, limitation
+   * Sources of public imagery
+   * Sensing bands
+   * Preprocessing, Calibration
+   * Analyses, uses, limitation
 3. Imagery data
-   1. How are images represented on a computer?
-   2. What are pixels, channels? What do they represent?
-   3. What is metadata? EXIF?
-   4. Understanding color systems and decomposing images into channels: RGB, HSV
-   5. Understanding convolution kernal filters
-   6. Accounting for heading, orientation, distortion of aerial images
-   7. Stitching together images
+   * How are images represented on a computer?
+   * What are pixels, channels? What do they represent?
+   * What is metadata? EXIF?
+   * Understanding color systems and decomposing images into channels: RGB, HSV
+   * Understanding convolution kernal filters
+   * Accounting for heading, orientation, distortion of aerial images
+   * Stitching together images
 4. Databases to store data
-   1. Why do we need databases?
-   2. SQL and noSQL databases
-   3. Queries, Inserts, Joins, Updates
-   4. Setting up a web server
+   * Why do we need databases?
+   * SQL and noSQL databases
+   * Queries, Inserts, Joins, Updates
+   * Setting up a web server
 5. Internet of Things (IoT)
-   1. What are web apps, how are they structured?
-   2. Scraping data from websites (Python, beautifulsoup, DOM parsing)
-   3. Programming a raspberry pi to send images over the internet into a database
-      1. How to use REST APIS and making http calls
-      2. sending requests, json formatting
-   4. Setting up a web app to handle requests
-      1. writing request handler
-      2. authentication/identification
-      3. saving request contents to database
+   * What are web apps, how are they structured?
+   * Scraping data from websites (Python, beautifulsoup, DOM parsing)
+   * Programming a raspberry pi to send images over the internet into a database
+      - How to use REST APIS and making http calls
+      - sending requests, json formatting
+   * Setting up a web app to handle requests
+      - writing request handler
+      - authentication/identification
+      - saving request contents to database
 6. What is image labeling and object detection?
-   1. How are images labeled?
-   2. What technologies are used for image recognition? What is a CNN?
-   3. How to train a CNN?
-   4. Transfer learning and pretrained classifiers
-   5. How to use PIL, openCV, python for image processing
+   * How are images labeled?
+   * What technologies are used for image recognition? What is a CNN?
+   * How to train a CNN?
+   * Transfer learning and pretrained classifiers
+   * How to use PIL, openCV, python for image processing
 7. Teambuilding: communicating in limited channels

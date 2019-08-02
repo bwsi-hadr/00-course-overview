@@ -100,5 +100,14 @@ Topics Covered  Decision making  What decisions need to be made in HADR applicat
 Topics Covered  What are some classical engineering failures? What went wrong? What is uncertainty? How can we model and characterize uncertainty? What is classification? What are some techniques for classification (decision trees, K-NN)?</description>
     </item>
     
+    <item>
+      <title>Social Media</title>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/social-media/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
+      
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/social-media/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

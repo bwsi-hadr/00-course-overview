@@ -45,8 +45,8 @@ pygmentsUseClasses = true
     meta_og_image = "mit-bwsi-full.png"
     meta_og_description = "MIT Beaver Works Remote Sensing is an impact driven course that uses imaging and data analysis for crisis response."
     meta_twitter_card = "summary"
-    meta_twitter_site = ""
-    meta_twitter_creator = ""
+    meta_twitter_site = "@bwsi3"
+    meta_twitter_creator = "@bwsi3"
 
   [params.logo]
       mobile = "mit-bwsi.png"

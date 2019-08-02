@@ -1,0 +1,53 @@
+baseURL="https://bwsi-hadr.github.io/00-course-overview/"
+languageCode = "en-us"
+title = "Hugo Whisper Theme"
+theme = "hugo-whisper-theme"
+themesDir = "themes"
+publishDir = "docs"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/course/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Course"
+    url = "/course/"
+    weight = 3
+
+[[menu.main]]
+    name = "Syllabus"
+    url = "/course/syllabus/"
+    weight = 4
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/course'
+  homepage_button_text = 'View the Course'
+  homepage_intro = 'MIT Beaver Works Remote Sensing is an impact driven course that uses imaging and data analysis for crisis response.'
+  homepage_image = 'remsens-matf1.jpg'
+  homepage_caption = "Students at BWSI Remote Sensing 2019 (above) are at Massachusetts Task Force 1"
+
+  [params.homepage_meta_tags]
+    meta_description = "MIT Beaver Works Remote Sensing is an impact driven course that uses imaging and data analysis for crisis response."
+    meta_og_title = "Remote Sensing"
+    meta_og_type = "website"
+    meta_og_url = "https://ddg.gg"
+    meta_og_image = "mit-bwsi-full.png"
+    meta_og_description = "MIT Beaver Works Remote Sensing is an impact driven course that uses imaging and data analysis for crisis response."
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+  [params.logo]
+      mobile = "mit-bwsi.png"
+      standard  = "mit-bwsi.png"

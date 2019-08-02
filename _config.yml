@@ -1,6 +1,8 @@
-theme: jekyll-theme-minimal
-title: BWSI Remote Sensing
-description: Course overview, syllabus, schedule, etc. for the Beaver Works Summer Insitute (BWSI) summer remote sensing course
-plugins:
- - jekyll-seo-tag
- - jekyll-sitemap
+# Old config file is not in use. Use the config.toml with Hugo to change the site
+
+# theme: jekyll-theme-minimal
+# title: BWSI Remote Sensing
+# description: Course overview, syllabus, schedule, etc. for the Beaver Works Summer Insitute (BWSI) summer remote sensing course
+# plugins:
+#  - jekyll-seo-tag
+#  - jekyll-sitemap

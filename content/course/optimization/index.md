@@ -4,7 +4,9 @@ date: 2019-01-01T00:00:00+10:00
 weight: 105
 ---
 
-### Decision Making and Optimization
+During crisis response, resources are limited. In a short amount of time, first responders need to evaluate the situation they are in and decide on the most efficient plan of action to respond to crises. The Remote Sensing course discusses optimization problems and optimization algorithms to maximize the effect of data analysis and operations.
+
+## Topics Covered
 
 1. Decision making
    1. What decisions need to be made in HADR applications?

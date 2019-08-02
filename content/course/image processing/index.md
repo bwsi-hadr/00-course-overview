@@ -4,10 +4,14 @@ date: 2019-01-01T00:00:00+10:00
 weight: 103
 ---
 
-### Aerial Photography and Image Processing
+The first application of knowledge in the Remote Sensing course involves image processing. Students use satellite imagery and other aerial photos to analyze the Earth. Students learn about how aerial images are taken and about how to analyze different types of images.
+
+### Github Repos
 
 [06-Intro-to-Image-processing](https://github.com/bwsi-hadr/06-Intro-to-Image-processing)  
 [07-Satellite_Image_Processing_Using_Python](https://github.com/bwsi-hadr/07-Satellite_Image_Processing_Using_Python)
+
+## Topics Covered
 
 1. What is the Civil Air Patrol (CAP)?
    1. History and mission of CAP

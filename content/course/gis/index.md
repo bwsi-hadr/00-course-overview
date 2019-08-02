@@ -4,11 +4,15 @@ date: 2019-01-01T00:00:00+10:00
 weight: 102
 ---
 
-### GIS and Networks
+Once students have a proficient knowledge of Python, it is time to learn about GIS and networks. GIS, or Geographic Information System, intruduces shapes, vectors, and location metadata to scripts. Networks increase the functionality of location data, making spacial computations more efficient. This allows for more advanced data analysis and mapping, critical for crisis response. 
+
+### Github Repos
 
 [03-Intro-to-GIS](https://github.com/bwsi-hadr/03-Intro-to-GIS)  
 [04-Intro-to-networks](https://github.com/bwsi-hadr/04-Intro-to-networks)  
 [05-Intro-to-Data-Science](https://github.com/bwsi-hadr/05-Intro-to-Data-Science)
+
+## Topics Covered
 
 1. Engineering design and data science
    1. How is data used to make decisions?

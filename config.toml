@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL="https://bwsi-hadr.github.io/00-course-overview/"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 theme = "hugo-whisper-theme"

@@ -1,10 +1,12 @@
 ---
 title: 'Supplements'
 date: 2019-01-01T00:00:00+10:00
-weight: 102
+weight: 106
 ---
 
-### Supplements
+Finally, the Remote Sensing course discusses general engineering principles as well as history of imaging and remote sensing over time. These supplemental topics build the students' foundations in engineering as they apply their knowledge of crisis response to class projects.
+
+### Topics Covered
 
 1. What are some classical engineering failures? What went wrong?
 2. What is uncertainty? How can we model and characterize uncertainty?

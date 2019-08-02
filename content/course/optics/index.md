@@ -4,7 +4,13 @@ date: 2019-01-01T00:00:00+10:00
 weight: 104
 ---
 
-### Kite Flying and Optics
+The Optics and Image Processing project, otherwise known as JEFFRIS (Just Evaluatory Float Flying Reeled Imaging System), guides students to take their own aerial images and process them. To take these images, students place Raspberry Pi microcomputers on kites and fly them on MIT's campus. After these images are taken, the students use their own algorithms to evaluate the areas that they photograph.
+
+### JEFFRIS Project Website
+
+ 
+
+## Topics Covered
 
 1. Kite photograpy
    1. What are the operational and safety considerations?

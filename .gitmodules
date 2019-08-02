@@ -1,4 +1,1 @@
 
-[submodule "themes/hugo-whisper-theme"]
-	path = themes/hugo-whisper-theme
-	url = git@github.com:intermezzio/hugo-whisper-theme.git

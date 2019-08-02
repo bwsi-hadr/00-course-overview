@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remote Sensing for Crisis Response on BWSI Remote Sensing</title>
-    <link>/00-course-overview/</link>
+    <link>https://bwsi-hadr.github.io/00-course-overview/</link>
     <description>Recent content in Remote Sensing for Crisis Response on BWSI Remote Sensing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="/00-course-overview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bwsi-hadr.github.io/00-course-overview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Syllabus</title>
-      <link>/00-course-overview/course/syllabus/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/syllabus/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/syllabus/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/syllabus/</guid>
       <description> The four-week summer component of aims to guide students through the processing of designing experiments and analyzing commonly used for data for disaster response. Daily course material, case studies, guest lectures, and small-group projects will expose students to challenges across technical domains. This syallabus is subject to change over the duration of the course.
 Schedule Week 1: Foundation  Introduction to Remote Sensing for Humanitarian Assistance and Disaster Relief Review of online Python course GIS and networks in Python Field trip to MIT Lincoln Laboratory  Week 2: Data Science and Analysis  Introduction to engineering design and data science principles Images, metadata, and image processing Field trip to Massachusetts Task Force One (MA-TF1)  Week 3: Aerial Imagery and Sensing  Civil Air Patrol and Aerial Imagery Internet of things and analyzing aerial images Building a hardware multispectral sensor Kite photography Field trip to Draper Laboratory  Week 4: Optimization Decision Making  Network optimization and class optimization formulations Guest lectures from Swissnex and Red Cross Red Crescent Climate Centre Final exercise of disaster tabletop simulation  </description>
     </item>
     
     <item>
       <title>Field Trips</title>
-      <link>/00-course-overview/course/field-trips/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/field-trips/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/field-trips/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/field-trips/</guid>
       <description>Throughout the Remote Sensing course, students embark on field trips to learn more about crisis response and about possible applications of their coursework. The following represents the field trips completed during the 2019 Remote Sensing program. The specific field trips done by each class may vary in future years.
 MIT Lincoln Laboratory MIT Lincoln Laboratory (MIT-LL), a co-sponsor for the Beaver Works Summer Institute. The Laboratory focuses on research that improves national security and assists in humanitarian aid.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/00-course-overview/course/python/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/python/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/python/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/python/</guid>
       <description> All programming in this course is done with Python because of its data analysis packages and other useful tools. In addition to the online course, the summer program starts off with a review of Python, data structures, and some specific Python packages. This extra preparation ensures that students are ready to efficiently apply their knowledge of Python for crisis response.
 Github Repos 00-InitialSetup
 01-Intro-to-python
@@ -46,10 +46,10 @@ Topics Covered  How to use Jupyter/Colab Notebooks Install system packages with 
     
     <item>
       <title>GIS and Networks</title>
-      <link>/00-course-overview/course/gis/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/gis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/gis/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/gis/</guid>
       <description>Once students have a proficient knowledge of Python, it is time to learn about GIS and networks. GIS, or Geographic Information System, intruduces shapes, vectors, and location metadata to scripts. Networks increase the functionality of location data, making spacial computations more efficient. This allows for more advanced data analysis and mapping, critical for crisis response.
 Github Repos 03-Intro-to-GIS
 04-Intro-to-networks
@@ -59,10 +59,10 @@ Topics Covered  Engineering design and data science  How is data used to make de
     
     <item>
       <title>Image Processing</title>
-      <link>/00-course-overview/course/image-processing/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/image-processing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/image-processing/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/image-processing/</guid>
       <description>The first application of knowledge in the Remote Sensing course involves image processing. Students use satellite imagery and other aerial photos to analyze the Earth. Students learn about how aerial images are taken and about how to analyze different types of images.
 Github Repos 06-Intro-to-Image-processing
 07-Satellite_Image_Processing_Using_Python
@@ -71,10 +71,10 @@ Topics Covered  What is the Civil Air Patrol (CAP)?  History and mission of CAP 
     
     <item>
       <title>Optics</title>
-      <link>/00-course-overview/course/optics/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/optics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/optics/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/optics/</guid>
       <description>The Optics and Image Processing project, otherwise known as JEFFRIS (Just Evaluatory Float Flying Reeled Imaging System), guides students to take their own aerial images and process them. To take these images, students place Raspberry Pi microcomputers on kites and fly them on MIT&amp;rsquo;s campus. After these images are taken, the students use their own algorithms to evaluate the areas that they photograph.
 JEFFRIS Project Website https://bwsi-hadr.github.io/JEFFRIS/
 Topics Covered  Kite photograpy  What are the operational and safety considerations?</description>
@@ -82,20 +82,20 @@ Topics Covered  Kite photograpy  What are the operational and safety considerati
     
     <item>
       <title>Optimization</title>
-      <link>/00-course-overview/course/optimization/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/optimization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/optimization/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/optimization/</guid>
       <description>During crisis response, resources are limited. In a short amount of time, first responders need to evaluate the situation they are in and decide on the most efficient plan of action to respond to crises. The Remote Sensing course discusses optimization problems and optimization algorithms to maximize the effect of data analysis and operations.
 Topics Covered  Decision making  What decisions need to be made in HADR applications? Who makes those decisions?</description>
     </item>
     
     <item>
       <title>Supplements</title>
-      <link>/00-course-overview/course/supplements/</link>
+      <link>https://bwsi-hadr.github.io/00-course-overview/course/supplements/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
       
-      <guid>/00-course-overview/course/supplements/</guid>
+      <guid>https://bwsi-hadr.github.io/00-course-overview/course/supplements/</guid>
       <description>Finally, the Remote Sensing course discusses general engineering principles as well as history of imaging and remote sensing over time. These supplemental topics build the students&amp;rsquo; foundations in engineering as they apply their knowledge of crisis response to class projects.
 Topics Covered  What are some classical engineering failures? What went wrong? What is uncertainty? How can we model and characterize uncertainty? What is classification? What are some techniques for classification (decision trees, K-NN)?</description>
     </item>

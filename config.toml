@@ -1,4 +1,4 @@
-baseURL="/00-course-overview"
+baseURL="https://bwsi-hadr.github.io/00-course-overview"
 languageCode = "en-us"
 title = "BWSI Remote Sensing"
 theme = "hugo-whisper-theme"

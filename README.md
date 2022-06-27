@@ -26,9 +26,9 @@ The four-week summer component of aims to guide students through the processing 
 4. Field trip to MIT Lincoln Laboratory
 
 Repositories:
-https://github.com/bwsi-hadr/01-Intro-to-python
-https://github.com/bwsi-hadr/02-visualization-and-shapes
-https://github.com/bwsi-hadr/03-Intro-to-GIS
+- https://github.com/bwsi-hadr/01-Intro-to-python
+- https://github.com/bwsi-hadr/02-visualization-and-shapes
+- https://github.com/bwsi-hadr/03-Intro-to-GIS
 
 ### Week 2: GIS and Remote Sesning
 
@@ -38,9 +38,9 @@ https://github.com/bwsi-hadr/03-Intro-to-GIS
 4. Field trip to Massachusetts Task Force One (MA-TF1)
 
 Repositories:
-https://github.com/bwsi-hadr/04-Intro-to-networks
-https://github.com/bwsi-hadr/05-Rasters-and-satellite-imagery
-https://github.com/bwsi-hadr/06-Intro-to-Image-processing
+- https://github.com/bwsi-hadr/04-Intro-to-networks
+- https://github.com/bwsi-hadr/05-Rasters-and-satellite-imagery
+- https://github.com/bwsi-hadr/06-Intro-to-Image-processing
 
 
 ### Week 3: Image processing and computer vision
@@ -50,8 +50,8 @@ https://github.com/bwsi-hadr/06-Intro-to-Image-processing
 
 Repositories:
 
-https://github.com/bwsi-hadr/07-3D_Reconstruction_and_SfM
-https://github.com/bwsi-hadr/08-Intro_to_deep_learning
+- https://github.com/bwsi-hadr/07-3D_Reconstruction_and_SfM
+- https://github.com/bwsi-hadr/08-Intro_to_deep_learning
 
 ### Week 4: Decision Making in Emergency Management
 
@@ -60,7 +60,7 @@ https://github.com/bwsi-hadr/08-Intro_to_deep_learning
 3. Collective decision making and collaboration
 
 Repositories:
-https://github.com/bwsi-hadr/final-exercise-template
+- https://github.com/bwsi-hadr/final-exercise-template
 
 ## Useful Links and References
 
